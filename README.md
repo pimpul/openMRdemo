@@ -1,1 +1,2 @@
 openMR demo
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac nisi et sem tempus laoreet quis sed turpis. Aenean faucibus iaculis mi, nec maximus tortor rutrum ac. Etiam pulvinar lacinia quam, id lacinia enim dictum a. Donec vitae erat aliquet, hendrerit ex ac, ornare dui. Suspendisse semper mollis nulla, nec scelerisque velit aliquam in. Integer vehicula lectus at urna auctor, vestibulum dictum libero consectetur. Aliquam tempus erat vitae tellus tempus venenatis. Duis interdum quam eget felis laoreet, eget feugiat tellus malesuada.
